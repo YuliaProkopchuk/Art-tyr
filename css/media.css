@@ -1,0 +1,472 @@
+@media screen and (min-device-width: 1600px) {
+    .container {
+        margin-top: 60px;
+    }
+
+    .navbar_logo {
+        width: 200px;
+        height: 200px;
+    }
+
+    .navbar {
+        font-size: 40px;
+    }
+
+
+    .col__name_article {
+        font-size: 90px;
+    }
+
+    .col__name_fact {
+        font-size: 90px;
+    }
+
+    .fon_inder_text {
+        font-size: 64px;
+    }
+
+    .fon_fact {
+        font-size: 14px;
+    }
+
+    .text_fact {
+        font-size: 40px;
+        text-align: justify;
+    }
+
+    .line {
+        margin-bottom: 25px;
+    }
+
+    .name {
+        font-size: 40px;
+        margin-bottom: 30px;
+
+    }
+
+    .paint {
+        margin-bottom: 10px;
+        width: 400px;
+        height: 270px;
+    }
+
+    .photo {
+        margin-bottom: 20px;
+        width: 400px;
+        height: 430px;
+        padding-left: 0;
+    }
+
+    .img-fluid-l {
+        width: 1200px;
+        height: 890px;
+    }
+
+    .img-fluid-m {
+        width: 1200px;
+        height: 860px;
+    }
+
+    .img-fluid-s {
+        width: 670px;
+        height: 890px;
+    }
+
+    .footer {
+        font-size: 32px;
+    }
+
+    .soc_net {
+        width: 100px;
+        height: 100px;
+    }
+
+    .footer_logo {
+        width: 250px;
+        height: 250px;
+    }
+
+    form {
+        font-size: 40px;
+    }
+
+    option {
+        font-size: 24px;
+    }
+
+    .name-of-form {
+        font-size: 60px;
+
+    }
+
+}
+
+@media (min-device-width: 992px) and (max-device-width: 1300px) {
+    .container {
+        margin-top: 30px;
+    }
+
+    .navbar_logo {
+        width: 95px;
+        height: 95px;
+    }
+
+    .navbar {
+        font-size: 20px;
+    }
+
+
+    .col__name_article {
+        font-size: 45px;
+    }
+
+    .col__name_fact {
+        font-size: 45px;
+    }
+
+    .fon_inder_text {
+        font-size: 32px;
+    }
+
+    .fon_fact {
+        font-size: 14px;
+    }
+
+    .text_fact {
+        font-size: 20px;
+    }
+
+    .line {
+        margin-bottom: 25px;
+    }
+
+    .name {
+        font-size: 24px;
+        margin-bottom: 30px;
+
+    }
+
+    .paint {
+        margin-bottom: 10px;
+        width: 300px;
+        height: 200px;
+    }
+
+    .photo {
+        margin-bottom: 20px;
+        width: 300px;
+        height: 322px;
+        padding-left: 0;
+    }
+
+    .footer {
+        font-size: 14px;
+    }
+
+    .soc_net {
+        width: 50px;
+        height: 50px;
+    }
+
+    .footer_logo {
+        width: 131px;
+        height: 131px;
+    }
+
+}
+
+@media (min-device-width: 770px) and (max-device-width: 992px) {
+    .container {
+        margin-top: 30px;
+    }
+
+    .navbar_logo {
+        width: 95px;
+        height: 95px;
+    }
+
+    .navbar {
+        font-size: 20px;
+    }
+
+
+    .col__name_article {
+        font-size: 45px;
+    }
+
+    .col__name_fact {
+        font-size: 45px;
+    }
+
+
+    .img-fluid-l {
+        width: 540px;
+        height: 400px;
+    }
+
+    .img-fluid-s {
+        width: 300px;
+        height: 400px;
+    }
+
+    .fon_inder_text {
+        font-size: 28px;
+    }
+
+    .fon_fact {
+        font-size: 14px;
+    }
+
+    .text_fact {
+        font-size: 20px;
+    }
+
+    .line {
+        margin-bottom: 25px;
+    }
+
+    .name {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .paint {
+        margin-bottom: 10px;
+        width: 220px;
+        height: 150px;
+    }
+
+    .photo {
+        font-size: 18px;
+        margin-bottom: 20px;
+        width: 220px;
+        height: 235px;
+    }
+
+    .footer {
+        font-size: 14px;
+    }
+
+    .soc_net {
+        width: 50px;
+        height: 50px;
+    }
+
+    .footer_logo {
+        width: 131px;
+        height: 131px;
+    }
+
+    form {
+        font-size: 20px;
+    }
+
+    option {
+        font-size: 12px;
+    }
+
+}
+
+@media (min-device-width: 520px) and (max-device-width: 770px) {
+    .container {
+        margin-top: 25px;
+    }
+
+    .navbar_logo {
+        width: 70px;
+        height: 70px;
+    }
+
+    .navbar {
+        font-size: 16px;
+    }
+
+    .img-fluid-l {
+        width: 450px;
+        height: 333px;
+    }
+
+
+    .img-fluid-m {
+        width: 420px;
+        height: 300px;
+
+    }
+
+    .img-fluid-s {
+        width: 200px;
+        height: 2700px;
+    }
+
+    .fon_inder_text {
+        font-size: 24px;
+    }
+
+    .col__name_article {
+        font-size: 40px;
+    }
+
+    .col__name_fact {
+        font-size: 40px;
+    }
+
+    .fon_fact {
+        font-size: 12px;
+    }
+
+    .text_fact {
+        font-size: 18px;
+    }
+
+    .line {
+        margin-bottom: 10px;
+    }
+
+    .name {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .paint {
+        margin-bottom: 10px;
+        width: 230px;
+        height: 155px;
+    }
+
+    .photo {
+        font-size: 16px;
+        margin-bottom: 15px;
+        width: 230px;
+        height: 245px;
+    }
+
+    .footer {
+        font-size: 12px;
+    }
+
+    .soc_net {
+        width: 40px;
+        height: 40px;
+    }
+
+    .footer_logo {
+        width: 110px;
+        height: 110px;
+    }
+
+    form {
+        font-size: 18px;
+    }
+
+    option {
+        font-size: 12px;
+    }
+    .offcanvas {
+        font-size: 16px;
+    }
+
+}
+
+@media screen and (max-device-width: 520px) {
+    .container {
+        margin-top: 12px;
+    }
+
+    .navbar {
+        font-size: 12px;
+    }
+
+    .fon_inder_text {
+        font-size: 16px;
+    }
+
+    .col__name_article {
+        font-size: 32px;
+    }
+
+    .col__name_fact {
+        font-size: 30px;
+    }
+
+    .img-fluid-l {
+        width: 405px;
+        height: 300px;
+    }
+
+    .img-fluid-m {
+        width: 380px;
+        height: 350px;
+    }
+
+    .img-fluid-s {
+        width: 186px;
+        height: 200px;
+    }
+
+    .fon_fact {
+        font-size: 10px;
+    }
+
+    .text_fact {
+        font-size: 16px;
+    }
+
+    .line {
+        margin-bottom: 15px;
+    }
+
+    .name {
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+
+    .photo {
+        margin-bottom: 10px;
+        width: 130px;
+        height: 140px;
+    }
+
+    .paint {
+        font-size: 12px;
+        margin-bottom: 10px;
+        height: 175px;
+        width: 260px;
+    }
+
+    .footer {
+        font-size: 10px;
+    }
+
+    .soc_net {
+        width: 30px;
+        height: 30px;
+    }
+
+    .footer_logo {
+        width: 75px;
+        height: 75px;
+    }
+
+    form {
+        font-size: 14px;
+    }
+
+    option {
+        font-size: 8px;
+    }
+
+    .text-404 {
+        font-size: 100px;
+    }
+
+    .message {
+        font-size: 12px;
+    }
+
+    .link-404 {
+        font-size: 12px;
+    }
+    .offcanvas {
+        font-size: 12px;
+    }
+}
